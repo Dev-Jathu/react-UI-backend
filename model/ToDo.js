@@ -9,17 +9,17 @@ const schema = new mongoose.Schema({
 
     },
     createdOn : {
-        type : Date
+        type : String
     },
     content : {
         type : String
     },
     DeadLine : {
-        type : Date
+        type : String
     }
 
     
 })
 
-const Document = mongoose.model("ToDo_List" ,schema)
+const Document = mongoose.model("ToDo" ,schema)
 module.exports =Document
