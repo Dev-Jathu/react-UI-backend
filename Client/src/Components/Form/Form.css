@@ -1,0 +1,76 @@
+
+label{
+    height: 20px;
+    /* background-color: aquamarine; */
+    font-size: 28px;
+
+}
+
+input{
+
+    width: 400px;
+    height: 50px;
+    /* border-top: none; */
+    margin-left: 100px;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.age{
+    margin-left: 192px;
+}
+.email{
+    margin-left: 170px;
+}
+.pass{
+    margin-left: 118px;
+}
+.Form{
+    /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(201, 6, 6, 0.1)); */
+     /* box-shadow: 0 10px 10px 0px rgb(155, 19, 19); */
+
+
+}
+.namefield{
+    width: 250px;
+    
+}
+.namefieldlast{
+    display: block;
+    margin-top: -50px;
+    margin-left: 370px;
+    width: 250px;
+
+}
+.namefieldemail{
+    width: 520px;
+}
+.h4{
+    margin-left: 101px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+.namefieldDob{
+    width: 520px;
+    margin-top: 10px;
+
+    
+}
+.sihnemail{
+   margin-left: auto;
+   margin-right: auto;
+   margin-left: 50px;
+   margin-top: 40px;
+}
+.containerTable{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: -100px;
+    margin-left: -40px;
+
+}
+.table{
+    width: 250px;
+}

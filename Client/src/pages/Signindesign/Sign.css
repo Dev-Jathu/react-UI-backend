@@ -1,0 +1,33 @@
+.h1sign {
+ text-align: center;
+ display: block;
+ margin-top: -50px;
+ margin-left: -140px;
+
+}
+.Signincontent{
+    border-radius: 40px;
+    /* box-shadow:  0.2rem 0.2rem 1rem 4px rgb(197, 197, 197); */
+    padding-top: 80px;
+}
+.createnew {
+    font-size: 22px;
+    margin-left: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+   
+}
+.containersignin{
+    width: 1150px;
+    margin: 200px;
+    margin-left: 410px;
+    display: grid;
+    grid-template-columns: 600px 400px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px rgb(182, 180, 177);
+    margin-top: 190px;
+}
+.logphoto img{
+    margin-left: 30px;
+}

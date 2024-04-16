@@ -1,0 +1,40 @@
+
+body{
+    background-color: aliceblue;
+}
+.nodephoto img{
+    width:695px;
+    border-radius:5px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.containerNode{
+    display: grid;
+    grid-template-columns: 600px 620px;
+    column-gap: 240px;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0.1rem 0.1rem 5px ;
+
+}
+.alreadyhaveacc{
+    font-size: 22px;
+   margin-left: 155px;
+}
+.containerNode{
+    width: 1200px;
+    /* border: 1px solid; */
+    margin-left: 360px;
+}
+.form{
+    margin-left: -170px;
+    height: 750px;
+    padding-top: 80px;
+}
+.signupform{
+    margin-top: -60px;
+    margin-left: 100px;
+}
+

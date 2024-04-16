@@ -1,0 +1,27 @@
+tr td{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.h3{
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px 350px;
+   margin-left: 80px;
+   margin-top: 20px;
+}
+.containerTable{
+    margin-top: 50px;
+    padding-left: 20px;
+}
+.adjust{
+    margin-left: 50px;
+    border: 1px solid;
+    margin-top: 200px;
+    width: 95%;
+    height: 380px;
+    border-radius: 20px;
+    box-shadow: 0.1rem 0.1rem 10px;
+    background-color: white;
+   
+}

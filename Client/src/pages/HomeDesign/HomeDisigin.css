@@ -1,0 +1,44 @@
+.photo img{
+   width:600px;
+    height:600px;
+    border-radius: 100px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 800px 800px;
+    margin-left: 100px;
+
+}
+p{
+    font-size: 25px;
+    width: 900px;
+    line-height: 31px;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    color: rgb(9, 9, 9);
+    font-weight: bold;
+}
+h1{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+.thish1{
+    margin-top: 50px;
+    font-size: 55px;
+
+
+}
+span{
+    /* color: rgb(232, 237, 79); */
+    color: #1b8a41;
+    margin-left: 80px;
+}
+.para{
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+   
+}
